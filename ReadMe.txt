@@ -1,4 +1,4 @@
-Tnis is a Readme for this project.
+This is a Readme for this project.
 
 Here is a sample js code for creating a vc code extension that creates a simple helper utility
 
